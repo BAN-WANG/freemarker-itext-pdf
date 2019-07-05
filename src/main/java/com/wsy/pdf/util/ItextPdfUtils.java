@@ -16,7 +16,6 @@ import java.nio.charset.Charset;
 /****
  * <pre>类名: ItextPdfUtils</pre>
  * <pre>描述: ?</pre>
- * <pre>版权: 深圳航天信息</pre>
  * <pre>日期: 2019-06-28 17:26</pre>
  * @author wangsy
  */
